@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Y2PRCEd7rd7monZez+YCMeAhuuBrxxNXzxom27DP7T8=",
+  "Source": "HangfireWebService",
+  "BasePath": "_content/HangfireWebService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
